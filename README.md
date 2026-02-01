@@ -1,4 +1,4 @@
-# IntentLens
+# IntentLens - Wearable AI Wallet
 IntentLens is a wearable-first AI wallet designed for AI glasses, enabling safe, hands-free blockchain interactions in the physical world.
 
 It uses AI to understand real-world context, voice to confirm human intent, and blockchain to record immutable outcomes—while keeping sensitive data off-chain.
